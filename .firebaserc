@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "thichcay-com"
+  },
+{
+  "hosting": {
+    "site": "fressor",
+    "public": "public",
+    ...
+  }
+}
